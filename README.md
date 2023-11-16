@@ -1,6 +1,6 @@
 #  Unveiling Insights: My 30-Day FIFA_21 Data Challenge with DuckDB and PowerBi
 
-![Alt Text](https://github.com/netflowrex/30daysDuckdb_challenge-/blob/main/image_fifa/DUCKDB.png)
+![Alt Text](https://github.com/netflowrex/30daysDuckdb_challenge-/blob/main/image_fifa/fifa.jpg)
 
 # Introduction 
 **Welcome**  
