@@ -1,6 +1,6 @@
 #  Unveiling Insights: My 30-Day FIFA_21 Data Challenge with DuckDB and PowerBi
 
-![Alt Text](fifa.jpg)
+![Alt Text](https://github.com/netflowrex/30daysDuckdb_challenge-/blob/main/image_fifa/DUCKDB.png)
 
 # Introduction 
 **Welcome**  
@@ -25,7 +25,7 @@ For the #30daysduckdbchallenge, I've taken on the task of analyzing two datasets
 
 This challenge has been a thrilling odyssey into the realm of data analysis.
 
-![Alt Text](https://github.com/netflowrex/30daysDuckdb_challenge/blob/main/DUCKDB.png)
+![Alt Text](https://github.com/netflowrex/30daysDuckdb_challenge-/blob/main/image_fifa/DUCKDB.png)
 
 Join me on this 30DaysDuckDBChallenge adventure, where I've dived deep into the FIFA dataset to uncover hidden gems, discern patterns, and stumble upon intriguing insights using the power of DuckDB. 
 
