@@ -142,12 +142,8 @@ In the #30DaysDuckDBChallenge, I've dived into the world of data visualization w
 
 **Tasks at Hand:**
 1. **Nationality Distribution:** Created an insightful bar chart showcasing the distribution of players' nationalities.
-
-2. **Age vs. Potential:** Built a scatter plot, complete with trendlines, unveiling the relationship between a player's age and their potential.
-
-3. **Player Position Analysis:** Presented a pie chart, revealing the diverse landscape of player positions.
-
-4. **Top Players by Overall Rating:** Compiled a table listing the crème de la crème, ranked by their Overall Rating (OVA).
+2. **position by distribution:** Presented a pie chart, revealing the diverse landscape of player positions.
+3. **Top Players by Overall Rating:** Compiled a table listing the crème de la crème, ranked by their Overall Rating (OVA).
 
 **My Approach:**
 - Exported FIFA datasets as CSV files from DuckDB.
@@ -156,14 +152,16 @@ In the #30DaysDuckDBChallenge, I've dived into the world of data visualization w
 - Seamlessly merged both datasets for comprehensive insights.
 
 **Discoveries:**
-- England leads the nationality count with 1,705 players, closely followed by Germany and Spain.
-- Player potential surges at age 28, gradually declining beyond 42, emphasizing the significance of youth in the game.
-- Center Backs (CB), Goalkeepers (GK), Strikers (ST), and Central Midfielders (CM) dominate player positions.
-- The legendary Lionel Messi stands tall with the highest Overall Rating of 93.
+In the fascinating world of FIFA 21, I embarked on a data journey using PowerBI for our 30-day DuckDB challenge. First off, I unveiled the vastness of the player realm, discovering a whopping 19,000 digital athletes. Delving deeper, I unearthed the average height standing at 5.49, with the typical weight clocking in at 165. These players, with an average age of 25, collectively earn an average wage of 167 million.
 
+But the real fun began when I explored the global landscape of players. England proudly led the pack with 1,704 players, showcasing its dominance. Germany followed closely with 1,195 players, making a strong football statement. Next up, I charted the diverse positions players occupied in the FIFA 21 league, creating a visual feast for position enthusiasts.
+
+Zooming in on individual brilliance, I unraveled the top players by age. Lionel Messi gracefully claimed the throne, leaving a mesmerizing trail, closely pursued by the legendary Cristiano Ronaldo.
+
+To make this adventure even more interactive, I crafted visuals featuring slicers for positions, clubs, and nationalities. This allows users to slice and dice the data, gaining insights tailored to their preferences. It's a dynamic journey into the heart of FIFA 21, where numbers tell stories, and players' digital footsteps create a vibrant tapestry of footballing excellence.
 With an interactive dashboard, I've brought these insights to life, offering a dynamic exploration of the FIFA data landscape. Stay tuned for more data-driven adventures!
 
-[View My Power BI Visualizations](#your-visualization-link)
+[View My Power BI Visualizations](https://github.com/netflowrex/30daysDuckdb_challenge-/blob/main/powerbi_image.png)
 
 # **Key Insights**
 ### Player Demographics:
